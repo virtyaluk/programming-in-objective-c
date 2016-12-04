@@ -1,6 +1,6 @@
 ## Programming in Objective-C
 
-*TODO*
+My code examples from book [Programming in Objective-C (6th Edition)](https://www.amazon.com/Programming-Objective-C-6th-Developers-Library/dp/0321967607) by Stephen G. Kochan
 
 ## :green_book: License
 
